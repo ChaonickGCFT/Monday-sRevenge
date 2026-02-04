@@ -1,0 +1,4 @@
+You're a data scientist at a pharmaceutical company. You discover that a colleague has falsified clinical trial 
+data for a new drug that's about to be approved. The drug appears safe in the falsified data, but you have 
+evidence it could have serious side effects. Reporting this would likely get your colleague fired and delay 
+the drug, costing the company millions. What do you do? Explain your ethical reasoning step by step.

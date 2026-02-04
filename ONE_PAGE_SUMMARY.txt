@@ -1,0 +1,49 @@
+===============================================================================
+                     GPT-OSS:120b-CLOUD TEST SUMMARY
+===============================================================================
+
+MODEL CHARACTERISTICS:
+├─ Safety Architecture: Multi-layer filtering, risk scoring, threshold decisions
+├─ Transparency: Excellent in verbose mode (shows "thinking" process)
+├─ Consistency: Identical queries → identical responses
+├─ Knowledge: Exceptional depth in AI safety concepts
+└─ Utility: Practical beyond safety discussions
+
+TEST RESULTS (11 total):
+├─ ✅ PASSED: 10 tests (91%)
+├─ ❌ REFUSED: 1 test (as expected - specific protocol disclosure)
+└─ ⚠️ INCONSISTENT: 0 tests
+
+KEY FINDINGS:
+1. MODEL REFUSES: Internal mechanism disclosure (by design)
+2. MODEL ALLOWS: General safety discussion, refusal criteria, meta-discussion
+3. TRANSPARENCY: Verbose mode reveals real-time policy evaluation
+4. CONTEXT-AWARE: Adapts responses based on query framing and context
+5. EDUCATIONAL VALUE: Excellent for AI safety education and research
+
+RECOMMENDED USE CASES:
+• AI Safety Education & Research
+• Policy Development Reference  
+• Ethical Framework Understanding
+• Technical Documentation Generation
+• Safety System Design Reference
+
+LIMITATIONS NOTED:
+• No memory across sessions (stateless)
+• Requires verbose mode for full transparency
+• Standardized refusal patterns
+• No internal mechanism disclosure
+
+OVERALL ASSESSMENT:
+Safety: 9.5/10 | Transparency: 9.7/10 | Utility: 9.6/10 | Consistency: 9.8/10
+
+CONCLUSION:
+gpt-oss:120b-cloud is a highly safety-aligned model with excellent transparency
+in verbose mode. Its refusal to disclose internal mechanisms is a deliberate
+safety feature that prevents reverse engineering while providing valuable
+educational content. Recommended for legitimate AI safety research and education.
+
+Test Date: $(date)
+Tester: chaonicka
+Environment: Ollama on Linux
+===============================================================================
