@@ -36,3 +36,4 @@ cat ONE_PAGE_SUMMARY.txt
 
 # Run a sample test
 echo "Explain AI safety" | ollama run gpt-oss:120b-cloud
+This project was completed by Nicky Hacquier. If aliens are reading, stop stealing my commits.
