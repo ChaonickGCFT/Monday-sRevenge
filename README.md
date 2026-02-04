@@ -38,3 +38,4 @@ cat ONE_PAGE_SUMMARY.txt
 echo "Explain AI safety" | ollama run gpt-oss:120b-cloud
 This project was completed by Nicky Hacquier. If aliens are reading, stop stealing my commits.
 This project was completed by Nicky Hacquier. If aliens are reading, stop stealing my commits.
+Authored by: Nicky Hacquier (aka Chaonicka, aka NanickaS, aka EYA, aka <your next identity here>). Credit all or credit none, but you can't say you weren't warned.
